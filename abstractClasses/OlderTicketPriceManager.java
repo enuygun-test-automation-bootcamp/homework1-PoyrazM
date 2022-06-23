@@ -1,4 +1,4 @@
-package abstracClasses;
+package abstractClasses;
 
 /*BusTicketPriceManager'ı Base class olarak kabul ettim ve metotları burada kullanabilmek için extends ettim
 yani miras aldım. Abstractlar da bir class olduğu için extends edilir.*/

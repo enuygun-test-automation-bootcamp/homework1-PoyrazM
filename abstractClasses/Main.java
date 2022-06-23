@@ -1,4 +1,4 @@
-package abstracClasses;
+package abstractClasses;
 
 
 //Burası benim Main sınıfım , ben burada operasyonlarımın sonuçlarını görmek istiyorum.

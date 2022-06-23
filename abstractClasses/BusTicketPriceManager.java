@@ -1,4 +1,4 @@
-package abstracClasses;
+package abstractClasses;
 
 /*Burada public ve class arasına abstract yazarak classımın soyut bir class yani abstract bir class olduğunu belirttim.
  ve bu classın benim artık Base classım olmasını istiyorum.*/
